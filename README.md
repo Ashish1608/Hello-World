@@ -1,1 +1,3 @@
-# Hello-World
+Hello programmers,
+Ashish here, I am an Aero-mechanical engineer interested in solving real life problems through programming.
+I know Python, C programming.....
